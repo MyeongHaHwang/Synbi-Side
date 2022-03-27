@@ -9,7 +9,7 @@ Myeong-Ha Hwang, Hyojin Son, Sechan Lee, Daeho Lee and Gwan-Su Yi*
 * Correspondence: gwansuyi@kaist.ac.kr
 
 
-## Synbi-Side
+## Abstract
 
 
 ## Funding
