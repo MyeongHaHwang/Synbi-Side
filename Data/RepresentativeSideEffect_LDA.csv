@@ -1,0 +1,15 @@
+No.,UMLS_ID,SideEffect Term,Proportion
+1,C0521491,application site pain,0.013335813
+2,C0687713,gastrointestinal pain,0.01269781
+3,C0017178,gastrointestinal disorder,0.011253655
+4,C0000731,abdominal distension,0.00952985
+5,C0233494,tension,0.008957918
+6,C0016382,flushing,0.008882036
+7,C1384353,infestation,0.008660555
+8,C0042029,urinary tract infection,0.008335984
+9,C3263723,injury,0.008168953
+10,C0948586,protein urine present,0.0078174
+11,C0221100,hangover,0.007116493
+12,C1443060,feeling abnormal,0.006788942
+13,C0020649,hypotension,0.006426803
+14,C0428977,bradycardia,0.005999358
