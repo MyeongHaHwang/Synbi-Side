@@ -12,7 +12,8 @@ Myeong-Ha Hwang, Hyojin Son, Sechan Lee, Daeho Lee and Gwan-Su Yi*
 ## Abstract
 
 
-<img width="999" alt="스크린샷 2022-03-30 오후 2 23 25" src="https://user-images.githubusercontent.com/35724555/160765312-72a41a96-6724-4f8a-8ee5-b31e6b511af0.png">
+
+![Main](https://user-images.githubusercontent.com/35724555/160765411-392ebce5-5a95-46f8-b93c-0046599c39df.png)
 
 
 ## Funding
